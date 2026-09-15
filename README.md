@@ -8,7 +8,7 @@ I'm a **Data Engineer with 5+ years of experience** building scalable ETL pipeli
 
 ## 🧠 About Me
 
-- 🔭 Currently working as a **Data Engineer at Vorizo Inc**, designing end-to-end analytics platforms
+- 🔭 Currently working as a **Data Engineer at Vorizon**, designing end-to-end analytics platforms
 - 🎓 M.S. in **Data Analytics** from University of Houston Downtown
 - ☁️ Experienced across **Azure, AWS, and GCP** cloud ecosystems
 - 📊 Passionate about **Power BI, Tableau**, and making data beautiful & useful
@@ -70,12 +70,12 @@ I'm a **Data Engineer with 5+ years of experience** building scalable ETL pipeli
 - Delivered **Power BI dashboards** for churn, retention, and lifetime value insights
 - Improved data availability and processing efficiency by **40%**
 
-### 🔹 [Smart Retail Analytics](#)
+### 🔹 [Smart Retail Analytics](https://github.com/Priyathota265/smart-retail-analytics)
 > An end-to-end platform that transforms retail data into actionable insights through data pipelines, dashboards, and real-time analytics.
 
  - End-to-End Analytics Platform: Built to analyze sales, customer behavior, and product performance.
  - Data Pipelines: Ingested, cleansed, and transformed retail data using SQL and cloud-based tools.
- - Interactive Dashboards: Designed dashboards providing actionable insights on revenue trends, inventory, and customer        purchasing patterns.
+ - Interactive Dashboards: Designed dashboards providing actionable insights on revenue trends, inventory, and customer purchasing patterns.
  - Data Modeling: Implemented techniques to improve reporting accuracy and support strategic business decisions.
  - Real-Time Analytics: Delivered analytics and visualizations enabling data-driven strategies for retail operations.
 
@@ -83,19 +83,15 @@ I'm a **Data Engineer with 5+ years of experience** building scalable ETL pipeli
 
 ## 📜 Certifications
 
-- 📊 Data Visualization with Power BI
-- 🎯 Google Data Analytics Professional Certificate
-- ☁️ BigQuery (ID: 8d82025174)
+- ☁️ Google Certified Data Infrastructure Engineer (valid through March 2028)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/priyadarshini-thota-89bb57170)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyadarshini-thota-89bb57170)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyadarshinithota994@gmail.com)
 
 ---
 
 ⭐ *"Data is the new oil — I help refine it."*
-
-
